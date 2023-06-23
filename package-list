@@ -1,0 +1,17 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+module:app
+com.aquakristal
+com.aquakristal.data.database
+com.aquakristal.data.model
+com.aquakristal.data.repository
+com.aquakristal.notify
+com.aquakristal.ui.screens
+com.aquakristal.ui.screens.add_pool
+com.aquakristal.ui.screens.group_profile_screen
+com.aquakristal.ui.screens.home_screen
+com.aquakristal.ui.screens.selected_pool
+com.aquakristal.ui.theme
+com.aquakristal.ui.utils
+com.aquakristal.ui.viewmodel
